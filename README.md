@@ -46,6 +46,10 @@
 司法院判決書經中央社數據處理的版本如下表所示。
 *資料清理過程並非完美，可能仍有雜訊或不符的資料，使用或詮釋上請務必留意。*
 
+| 一般酒駕 | 酒駕致死 | 酒駕致傷 |
+| :----: | :----: |:----: |
+|  [2000](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2000.csv) [2001](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2001.csv)| bbbbbb | ccccc |
+
 ### 一般酒駕案件
 - [2000](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2000.csv)
 - [2001](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2001.csv)
