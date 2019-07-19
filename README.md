@@ -1,4 +1,4 @@
-# 中央通訊社[〈治酒駕用重典？49萬筆判決書的罪與罰〉](https://cna.com.tw/20190719-drunkdriving/index.html)專題
+# 中央通訊社[〈治酒駕用重典？49萬筆判決書的罪與罰〉](https://www.cna.com.tw/project/20190719-drunkdriving/)專題
 
 #### 最後更新時間：2019/7/19
 
