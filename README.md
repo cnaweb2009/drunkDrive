@@ -24,7 +24,7 @@
 
 此外，各地院判決書寫法各異，文字、數字、甚至符號寫法多元，例如「一」與「壹」之分、數字的全半形差異，都是資料清洗的挑戰。
 
-*有關數據清洗程式碼，可見negligent.ipynb。*
+*有關數據清洗程式碼，可見[negligent.ipynb](https://github.com/cnaweb2009/drunkDrive/blob/master/negligent.ipynb)。*
 
 ## 限制
 
@@ -47,31 +47,31 @@
 *資料清理過程並非完美，可能仍有雜訊或不符的資料，使用或詮釋上請務必留意。*
 
 ### 一般酒駕案件
-- [2000]()
-- [2001]()
-- [2002]()
-- [2003]()
-- [2004]()
-- [2005]()
-- [2006]()
-- [2007]()
-- [2008]()
-- [2009]()
-- [2010]()
-- [2011]()
-- [2012]()
-- [2013]()
-- [2014]()
-- [2015]()
-- [2016]()
-- [2017]()
-- [2018]()
-- [2019(僅至1月)]()
+- [2000](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2000.csv)
+- [2001](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2001.csv)
+- [2002](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2002.csv)
+- [2003](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2003.csv)
+- [2004](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2004.csv)
+- [2005](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2005.csv)
+- [2006](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2006.csv)
+- [2007](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2007.csv)
+- [2008](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2008.csv)
+- [2009](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2009.csv)
+- [2010](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2010.csv)
+- [2011](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2011.csv)
+- [2012](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2012.csv)
+- [2013](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2013.csv)
+- [2014](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2014.csv)
+- [2015](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2015.csv)
+- [2016](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2016.csv)
+- [2017](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2017.csv)
+- [2018](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2018.csv)
+- [2019(僅至1月)](https://www.cna.com.tw/project/drunkdrivingDownload/drunkDrive_2019.csv)
 
 ### 酒駕致死案件
-- [2000-201901]()
+- [2000-201901](https://www.cna.com.tw/project/drunkdrivingDownload/fatal_export.csv)
 ### 酒駕致傷案件
-- [2000-201901]()
+- [2000-201901](https://www.cna.com.tw/project/drunkdrivingDownload/hurt_export.csv)
 
 ## License
 
